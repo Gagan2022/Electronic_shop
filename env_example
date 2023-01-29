@@ -1,0 +1,8 @@
+SECRET_KEY='django-insecure'
+DEBUG=True
+DB_NAME=post
+DB_USER=post
+DB_PASSWORD=post
+DB_HOST=localhost
+DB_PORT=5433
+LANGUAGE_CODE='ru'
